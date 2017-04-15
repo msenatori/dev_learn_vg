@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DianaScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MovePlayer.cs" Line="48" Column="19" />
+      <File FileName="Assets\Scripts\DianaScript.cs" Line="21" Column="36" />
+      <File FileName="Assets\Scripts\ActivateDianas.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="8" Column="31" />
+      <File FileName="Assets\Scripts\Fuego.cs" Line="12" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
